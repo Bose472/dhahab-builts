@@ -1,0 +1,10 @@
+dhahab-builts/
+├── app/
+│   ├── page.tsx
+│   ├── layout.tsx
+│   ├── globals.css
+│   └── favicon.ico
+├── package.json
+├── tsconfig.json
+├── next.config.mjs
+└── .gitignore
